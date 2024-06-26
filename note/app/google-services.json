@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106462793982",
+    "project_id": "note-7348a",
+    "storage_bucket": "note-7348a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106462793982:android:e9e47304acb5903b8895af",
+        "android_client_info": {
+          "package_name": "shariaty.mirzaee.note"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyckmsfACuOZoXlFefsDI7h9gdZ8Ht-dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
